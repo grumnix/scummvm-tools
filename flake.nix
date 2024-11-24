@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-24.05";
+    nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-24.11";
     flake-utils.url = "github:numtide/flake-utils";
 
     scummvm-tools_src.url = "github:scummvm/scummvm-tools?ref=v2.7.0";
